@@ -1,0 +1,13 @@
+{
+  "name": "simple-backend-node",
+  "version": "1.0.0",
+  "description": "simple backend, node, mongodb",
+  "main": "index.js",
+  "repository": "https://github.com/seanarch/simple-backend-test.git",
+  "author": "Sean",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
